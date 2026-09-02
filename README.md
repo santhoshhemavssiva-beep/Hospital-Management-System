@@ -40,6 +40,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="1002" height="808" alt="Screenshot 2026-09-02 182311" src="https://github.com/user-attachments/assets/8232b14e-b9f2-416a-8915-30657b3863b2" />
 
 
 
@@ -60,6 +61,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1003" height="731" alt="Screenshot 2026-09-02 182337" src="https://github.com/user-attachments/assets/be50c488-a2f6-4830-b672-0cd1fc73a8fd" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -68,6 +70,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="985" height="656" alt="Screenshot 2026-09-02 182403" src="https://github.com/user-attachments/assets/b5ba4768-3f1e-4a19-822e-c20fe1f8d0df" />
 
 
 
@@ -80,6 +83,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="985" height="656" alt="Screenshot 2026-09-02 182403" src="https://github.com/user-attachments/assets/951a75a2-8d02-43c5-86d0-493da86a077f" />
 
 
 
@@ -98,6 +102,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="552" height="698" alt="Screenshot 2026-09-02 182424" src="https://github.com/user-attachments/assets/26335e21-973c-4f2d-9cc3-d9600de17c9d" />
 
 
 
@@ -119,6 +124,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="549" height="465" alt="Screenshot 2026-09-02 182436" src="https://github.com/user-attachments/assets/2b32b6bd-59fc-40e1-907e-45b4bb77312b" />
 
 
 
